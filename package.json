@@ -1,0 +1,23 @@
+{
+  "name": "animated-octo-meme",
+  "version": "1.0.0",
+  "description": "123asff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siuramka/animated-octo-meme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siuramka/animated-octo-meme/issues"
+  },
+  "homepage": "https://github.com/siuramka/animated-octo-meme#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.13.1"
+  }
+}
